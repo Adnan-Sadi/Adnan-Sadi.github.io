@@ -14,18 +14,20 @@
     - title: B.Sc. in Computer Science and Engineering
       institution: North South University, Dhaka, Bangladesh
       year: 2019-2022
-      department: Electrical and Computer Engineering
+      department: Department of Electrical and Computer Engineering
+      description:
+          - <b>CGPA:</b> 3.82 (out of 4.00)
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: North South University
-      department: Electrical and Computer Engineering
-      year: September 2023 - Present
+      department: Department of Electrical and Computer Engineering
+      year: 09/2023-Now
       description:
         - Currently working under the supervision of Dr. Mohammad Ashrafuzzaman Khan.
-        - My main responsibility is working on artificial intelligence/natural language processing research projects (mainly designing, implementation, and paper writing).
+        - My primary responsibility is working on (mainly designing, implementation, and paper writing) artificial intelligence/natural language processing research projects.
         - Currently working on research related to the application of NLP in the healthcare domain
 
 - title: Research Interests
