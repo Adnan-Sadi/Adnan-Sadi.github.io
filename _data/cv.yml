@@ -50,3 +50,15 @@
     - <b>Database:</b> MySQL, SQLite
     - <b>Version Control:</b> Git, Github
     - <b>Project Management Tools:</b> Trello, Slack, Overleaf
+
+- title: Standardized Test Scores
+  type: nested_list
+  contents:
+    - title: TOEFL
+      items:
+        - <b>Total:</b> 107
+        - <b>Reading:</b> 30, <b>Speaking:</b> 28, <b>Listening:</b> 24, <b>Writing:</b> 25
+    - title: GRE
+      items:
+        - <b>Total:</b> 305
+        - <b>Quantitative Reasoning:</b> 154, <b>Verbal Reasoning:</b> 151, <b>Analytical Writing:</b> 4
