@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started working as research assistant at NSU under the supervision of Dr. Mohammad Ashrafuzzaman Khan.
+I started working as a research assistant at NSU under the supervision of [Dr. Mohammad Ashrafuzzaman Khan](http://ece.northsouth.edu/people/dr-mohammad-ashrafuzzaman-khan/).
