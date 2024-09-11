@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Abu Adnan Sadi. I am currently working as a research assistant at North South University, Dhaka, Bangladesh. I completed my B.Sc. in computer science and engineering from North South University. My research interest is primarily in areas related to natural language processing (NLP), deep learning, and computer vision. I also have an interest in the healthcare informactics domain. My current research focuses on applying NLP-based methods to perform automatic differential diagnosis from medical text.
+Welcome! I am Abu Adnan Sadi. I am currently working as a research assistant at North South University, Dhaka, Bangladesh. I completed my B.Sc. in computer science and engineering from North South University. My research interest is primarily in areas related to natural language processing (NLP), deep learning, and computer vision. I also have an interest in the healthcare informatics domain. My current research focuses on applying NLP-based methods to perform automatic differential diagnosis from medical text.
 
 If you would like to contact me, feel free to send me an email at `adnansadi52@gmail.com` or send me a message on [`Linkedin`](https://www.linkedin.com/in/abu-adnan-sadi-1a40a4200/).
 
