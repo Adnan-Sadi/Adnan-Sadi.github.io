@@ -72,10 +72,6 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12'  # Specify the Python version
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -85,13 +81,7 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          # Create and activate virtual environment
-          python -m venv venv
-          source venv/bin/activate
-          # Upgrade pip within the virtual environment
-          pip install --upgrade pip
-          # Install Jupyter and any other Python dependencies
-          pip install --upgrade jupyter
+          pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
