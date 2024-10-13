@@ -81,11 +81,11 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
+          pip install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
-          pip install --upgrade jupyter
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
